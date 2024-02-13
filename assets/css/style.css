@@ -229,6 +229,7 @@ main h1 span img {
   bottom: -2vh;
 }
 
+
 header {
   position: sticky;
   z-index: 2;
@@ -359,7 +360,7 @@ section h2 {
 
 #icon1 {
   display: inline-block;
-  bottom: 50px;
+  bottom: 100px;
 }
 #icon1 i {
   color: cornflowerblue;
@@ -367,6 +368,11 @@ section h2 {
 
 #icon2 i {
   color: cornflowerblue;
+}
+
+#icon2 {
+  display: inline-block;
+  bottom: 50px;
 }
 
 /*-------------*/
